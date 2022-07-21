@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LinLin762
+- 👋 Hi, I’m @Lina B.
 - 👀 I’m interested in computer programming and medicine. 
 - 🌱 I’m know python and a little HTML and CSS
 -
